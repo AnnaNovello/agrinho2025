@@ -1,22 +1,24 @@
 # agrinho2025
-projeto agrinho com o tema "festejando entre o campo e a cidade"
-# Corrida de Emojis 
 
-## Objetivo
+Projeto Agrinho com o tema "festejando entre o campo e a cidade"
+
+## Corrida de Emojis 
+
+### Objetivo
 
 Este projeto foi desenvolvido como atividade do projeto Agrinho para mostrar, de forma divertida e colorida, a interação entre campo e cidade, usando emojis e programação com p5.js.  
 O objetivo é promover o aprendizado de programação, criatividade e o uso de ferramentas como o GitHub.
 
 ---
 
-## Passo a passo do projeto
+### Passo a passo do projeto
 
 1. **Planejamento:**  
-   Pensei no tema (campo e cidade juntos) e decidi usar emojis para representar os personagens da corrida, usando um projeto antigo que fizemos, do alura, remodelei para o conteudo "festejando a conexão entre o campo e a cidade".
+   Pensei no tema ( "O tema do Agrinho2025") e decidi usar emojis para representar os personagens da corrida, mudei também as intruções, e coloquei duas cores para representar campo e cidade, usando um projeto antigo que fizemos, do alura, remodelei para o conteúdo "festejando a conexão entre o campo e a cidade".
 
 2. **Programação:**  
-   - Usei o p5.js para criar o jogo em JavaScript.
-   - Separei o código em seções com comentários, seguindo o padrão sugerido pelo vídeo da Alura 2025.
+   - Usei o alura para criar o jogo em JavaScript.
+   - Separei o código em passo a passo e o organizei, seguindo inspiração no projeto passado.
    - Nomeei funções e variáveis de forma clara e explicativa.
 
 3. **Organização do repositório:**  
@@ -25,20 +27,20 @@ O objetivo é promover o aprendizado de programação, criatividade e o uso de f
 
 ---
 
-## Como jogar
+### Como jogar
 
-- **Começar:** Aperte qualquer tecla.
+- **Começar:** Aperte qualquer tecla, espaço ou o mouse.
 - **Movimentar:**  
-  - Q = 🌽 Milho  
-  - W = 👨‍🌾 Agricultor  
-  - E = 🏙️ Cidade  
-  - R = 🎉 Folia  
+  - Q = 🌃 Noite na cidade  
+  - W = 🚌 Ônibus  
+  - E = 👩🏻‍🌾 Agricultora  
+  - A = 🌽 Milho  
   - Ou use qualquer seta do teclado para todos correrem juntos!
-- **Reiniciar:** Quando algum emoji vencer, aperte `R`.
+- **Reiniciar:** Quando algum emoji vencer, aperte `R` e renicie.
 
 ---
 
-## Estrutura do repositório
+### Estrutura do repositório
 
 ```plaintext
 /
@@ -49,16 +51,15 @@ O objetivo é promover o aprendizado de programação, criatividade e o uso de f
 
 ---
 
-## Referências
+### Referências
 
-- [Alura 2025 – Como criar repositorio video explicativo no youtube](https://www.youtube.com/)  
-  ![Vídeo Alura 2025](image1)
+- [ Git Hub – Como criar repositório (vídeo explicativo)](https://www.youtube.com/)  
 - [Editor p5.js](https://editor.p5js.org/)
 - [Documentação p5.js](https://p5js.org/reference/)
 - [GitHub Docs](https://docs.github.com/)
-
+- [Inteligência Artificial](https://chatgpt.com/) 
 ---
 
-Feito por Anna Novello  
-1º ano B – Trabalho de pensamento computacional:
-Agrinho 2025  
+Feito por Anna Julia Novello  
+1º ano B – Trabalho de pensamento computacional  
+Agrinho 2025 — Corrida de Emojis – Campo & Cidade
