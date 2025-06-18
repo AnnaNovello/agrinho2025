@@ -53,7 +53,7 @@ O objetivo é promover o aprendizado de programação, criatividade e o uso de f
 
 ### Referências
 
-- [ Git Hub – Como criar repositório (vídeo explicativo)](https://www.youtube.com/)  
+- [ Youtube – Como criar repositório (vídeo explicativo)](https://www.youtube.com/)  
 - [Editor p5.js](https://editor.p5js.org/)
 - [Documentação p5.js](https://p5js.org/reference/)
 - [GitHub Docs](https://docs.github.com/)
